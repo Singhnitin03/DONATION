@@ -1,0 +1,20 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.backimage{
+    background-image:url("children.jpg");
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.footer{
+   
+    height: 60px;
+}
+.donateform{
+    color: rgb(211, 8, 8);
+}
